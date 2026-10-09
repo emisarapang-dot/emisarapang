@@ -1,0 +1,6 @@
+{
+  "name": "DASHBOARD ADMINISTRASI TONGGURU YUSAK YOKOYAMA",
+  "description": "Sistem Informasi Manajemen Administrasi Guru Kelas & Mapel Kurikulum Merdeka Deep Learning berbasis SK BSKAP Kemendikdasmen No. 046/H/KR/2025.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
